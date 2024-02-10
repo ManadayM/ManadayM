@@ -29,7 +29,6 @@ I am open to work 👨🏻‍💻 on freelance projects. Just drop me a message 
 ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
-![Linux](https://img.icons8.com/color/48/000000/linux.png)
 
 ## Notable Repos
 

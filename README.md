@@ -7,7 +7,7 @@ Welcome to my code vault 🗃.
 
 I am Manaday Mavani, a freelance software engineer from India 🇮🇳. I love to craft performance, accessibility, security, and privacy focused software. 
 
-I treasure my coding experiments and some personal projects (private) on this space. Feel free to explore, fork or clone anything that interests you.
+I treasure my coding experiments and some personal projects (private repos) on this space. Feel free to explore, fork or clone anything that interests you.
 
 I am open to work 👨🏻‍💻 on freelance projects. Just drop me a message on LinkedIn or Twitter to discuss your next big idea. Happy to help! 😊
 
@@ -30,7 +30,7 @@ I am open to work 👨🏻‍💻 on freelance projects. Just drop me a message 
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
 
-Last updated: 2023-02-09
+Last updated: 2023-02-10
 
 <!--
 **ManadayM/ManadayM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
